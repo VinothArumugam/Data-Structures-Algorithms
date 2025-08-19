@@ -10,15 +10,15 @@ Welcome to the DSA repository! This project is a curated collection of implement
 
       
 # 📂 Folder Structure
-      DSA/
-      ├── Arrays/
-      ├── LinkedList/
-      ├── StackQueue/
-      ├── Trees/
-      ├── Graphs/
-      ├── DynamicProgramming/
-      ├── SortingSearching/
-      ├── RecursionBacktracking/
+      dsa/
+      ├── arrays/
+      ├── linkedlist/
+      ├── stackqueue/
+      ├── trees/
+      ├── graphs/
+      ├── dynamicprogramming/
+      ├── sortingsearching/
+      ├── recursionbacktracking/
       └── README.md
 
 Open in your IDE (e.g., IntelliJ, VS Code)
